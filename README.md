@@ -17,7 +17,7 @@ Progress: 🟡 Restart Phase
 
 Topics Completed:
 
-* [ ] C++ Basics
+* [x] C++ Basics
 * [ ] Arrays
 * [ ] Strings
 * [ ] Binary Search
