@@ -3,9 +3,11 @@
 #include <sstream>
 #include <vector>
 
-bool isValueExists(int num, std::vector<int> array) {
+bool isValueExists(int val, std::vector<int>& array) {
     for(int i=0; i<static_cast<int>(array.size()); i++) {
-        if(num!=array[i]) return false;
+        if(val==array[i]) {
+            return false;
+        }
     }
     return true;
 }
@@ -29,7 +31,7 @@ void solve() {
         }
     }
 
-    std::cout << "Unique values: " << count;
+    std::cout << "Unique values: " << static_cast<int>(arr_.size());
 }
 
 int main() {
