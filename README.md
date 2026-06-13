@@ -18,10 +18,10 @@ Progress: 🟡 Restart Phase
 Topics Completed:
 
 * [x] C++ Basics
-* [ ] Arrays
+* [x] Arrays
 * [ ] Strings
 * [ ] Binary Search
-* [ ] Hashing
+* [x] Hashing
 * [ ] Sliding Window
 * [ ] Stack
 * [ ] Queue
@@ -36,12 +36,12 @@ Topics Completed:
 
 ```text
 .
-├── 00_cpp_basics/
-├── 01_arrays/
-├── 02_strings/
-├── 03_binary_search/
-├── 04_hashing/
-├── notes/
+├── Arrays/
+├── Bitwise_Manipulation/
+├── Code_Templates/
+├── Mistakes/
+├── Notes/
+├── STL/
 └── README.md
 ```
 
