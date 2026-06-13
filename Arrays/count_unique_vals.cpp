@@ -31,7 +31,7 @@ void solve() {
         }
     }
 
-    std::cout << "Unique values: " << static_cast<int>(arr_.size());
+    std::cout << "Unique values: " << count;
 }
 
 int main() {

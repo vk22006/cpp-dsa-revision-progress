@@ -15,9 +15,9 @@ void solve() {
         arr.push_back(x);
     }
 
-    for(int i=0; i<static_cast<int>(arr.size()); i++) {
+    for(int i=1; i<static_cast<int>(arr.size()); i++) {
         if(arr[i-1]==arr[i]) {
-            arr[i-1] = arr[i];
+            arr[i-1] *= 2;
             arr[i] = 0;
         }
     }
