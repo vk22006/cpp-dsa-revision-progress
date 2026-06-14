@@ -16,9 +16,14 @@ void solve() {
     while(ss >> x) {
         arr.push_back(x);
     }
-    std::unordered_map<int, int> freq;
-    for(int num : arr) freq[num]++;
-    for(auto& keyval : freq) std::cout << keyval.first << " " << keyval.second << "\n";
+    int count = 1;
+    for(size_t i=1; i<arr.size(); i++) {
+        if(arr[i-1]==arr[i]) count++;
+        else {
+            std::cout << arr[i-1] << " " << count << "\n";
+            count = 1;
+        }
+    }
 }
 
 int main() {
