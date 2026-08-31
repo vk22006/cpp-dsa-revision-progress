@@ -19,17 +19,17 @@ Topics Completed:
 
 * [x] C++ Basics
 * [x] Arrays
-* [ ] Strings
-* [ ] Binary Search
+* [x] Strings
+* [x] Binary Search
 * [x] Hashing
-* [ ] Sliding Window
+* [x] Sliding Window
 * [ ] Stack
 * [ ] Queue
 * [ ] Linked List
-* [ ] Trees
+* [x] Trees
 * [ ] Heap
 * [ ] Graph
-* [ ] Dynamic Programming
+* [x] Dynamic Programming
 
 
 ## Structure
@@ -37,11 +37,22 @@ Topics Completed:
 ```text
 .
 ├── Arrays/
+├── Binary_Search/
 ├── Bitwise_Manipulation/
 ├── Code_Templates/
-├── Mistakes/
+├── Dynamic_Programming/
+    └── Kadane's/
+├── Greedy/
+    └── Knapsack/
+├── Hash_Maps/
+├── Math/
 ├── Notes/
+├── Prefix_Sum/
+├── Sliding_Window/
+├── Sorting/
 ├── STL/
+├── Strings/
+├── Trees/
 └── README.md
 ```
 
