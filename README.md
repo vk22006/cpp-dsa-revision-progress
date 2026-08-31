@@ -20,13 +20,17 @@ Topics Completed:
 * [x] C++ Basics
 * [x] Arrays
 * [x] Strings
+* [x] Sorting
 * [x] Binary Search
+* [x] Math
 * [x] Hashing
+* [x] Prefix Sum
 * [x] Sliding Window
 * [ ] Stack
 * [ ] Queue
 * [ ] Linked List
 * [x] Trees
+* [x] Sets
 * [ ] Heap
 * [ ] Graph
 * [x] Dynamic Programming
