@@ -1,8 +1,10 @@
-# C++ DSA Revision
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="img/header-dark.png">
+   <img alt="Logo for C++ DSA Revision Progress" src="img/header-light.png">
+</picture>
 
-Fresh restart of Data Structures & Algorithms in C++.
 
-Goal:
+## Goal
 
 * Rebuild DSA from fundamentals
 * Improve problem solving and implementation skills
